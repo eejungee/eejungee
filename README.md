@@ -12,5 +12,3 @@
 
 ## Github Profile
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eejungee&layout=compact&theme=dracula)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eejungee)
